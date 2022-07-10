@@ -3,6 +3,6 @@ fn main() {
         for x in 1..nums.len(){
             nums[x] += nums[x-1];
         }
-    return nums
+    return nums;
     }
 }
